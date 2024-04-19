@@ -1,5 +1,7 @@
 # JElox Language
 
+Changing from JElox to J-ren 🦸‍♂️
+
 A very simple ***dynamically-types*** programming language 🌩️
 
 ### The inspiration?
