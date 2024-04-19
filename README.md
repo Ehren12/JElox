@@ -1,7 +1,11 @@
 # JElox Language
 
-A very simple dynamically-types programming language 🌩️
+A very simple ***dynamically-types*** programming language 🌩️
 
+### The inspiration?
 This project is my implementation of the jLox programming language covered in the book Crafting Interpreters by Robert Nystrom 📔
 
-Feel free to contribute
+### Current status...
+This project is largely unfinished, we're at the foot of the mountain: **The Tokenizer** 🗺️⛰️
+
+Feel free to contribute 🪄
